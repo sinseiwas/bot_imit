@@ -1,0 +1,4 @@
+aiogram
+docker
+dotenv
+asyncpg
