@@ -1,4 +1,3 @@
 aiogram
-docker
 dotenv
 asyncpg
